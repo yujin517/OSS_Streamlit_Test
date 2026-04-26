@@ -1,5 +1,12 @@
+# 가상환경 폴더
 .venv/
+
+# Python 캐시 파일
 __pycache__/
 *.pyc
+
+# 환경 변수 파일
 .env
+
+# VSCode 개인 설정
 .vscode/
